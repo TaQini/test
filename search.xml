@@ -13,14 +13,34 @@
       
       <categories>
           
-          <category> CTF, pwn </category>
+          <category> CTF </category>
+          
+          <category> writeup </category>
+          
+          <category> pwn </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> CTF,pwn </tag>
+            <tag> ROP </tag>
+            
+            <tag> double free </tag>
+            
+            <tag> unsorted bin leak </tag>
+            
+            <tag> shellcode </tag>
+            
+            <tag> 栈迁移 </tag>
+            
+            <tag> shell基础 </tag>
+            
+            <tag> proc </tag>
+            
+            <tag> GOT覆写 </tag>
+            
+            <tag> seccomp </tag>
             
         </tags>
       
